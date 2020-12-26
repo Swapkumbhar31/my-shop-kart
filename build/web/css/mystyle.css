@@ -1,0 +1,8 @@
+.yellow{
+    color: gold;
+}
+.box{
+    border: solid 2px gray;
+    padding: 20px;
+    border-radius: 10px;
+}
